@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter / Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Large or downloaded data files (the notebook downloads data from a public URL)
+data/
+*.zip
+*.xlsx
+*.parquet
+
+# OS files
+.DS_Store
+Thumbs.db
